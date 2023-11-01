@@ -1,1 +1,1 @@
-alert('hallo wereld');
+alert('broodje kaas');
